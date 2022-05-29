@@ -1,6 +1,6 @@
 # Ignore key files
-Earthquake_Challenge/static/js/config.js
-*config.js
+config.js
+*.DS_Store
 
 # Compiled class file
 *.class
