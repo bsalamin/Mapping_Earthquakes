@@ -1,3 +1,7 @@
+# Ignore key files
+Earthquake_Challenge/static/js/config.js
+*config.js
+
 # Compiled class file
 *.class
 
